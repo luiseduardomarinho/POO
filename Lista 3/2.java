@@ -44,7 +44,7 @@ class Circulo implements AreaCalculavel {
     }
 }
 
-//testerrr
+//Teste
 public class Teste {
     public static void main(String[] args) {
         AreaCalculavel[] formas = new AreaCalculavel[5];
