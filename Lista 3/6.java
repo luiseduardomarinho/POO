@@ -24,7 +24,7 @@ public class ConjuntoDePalavras {
         return true;
     }
 
-    // blup
+    // Scan
     public static void main(String[] args) {
         ConjuntoDePalavras conjunto = new ConjuntoDePalavras();
         Scanner scanner = new Scanner(System.in);
