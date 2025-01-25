@@ -3,7 +3,7 @@ public class Circulo {
     private double centroX;
     private double centroY;
 
-    //construtor1
+    //Construtor1
     public Circulo(double raio, double centroX, double centroY) {
         if (raio < 0) {
             throw new IllegalArgumentException("O raio não pode ser negativo.");
@@ -12,7 +12,7 @@ public class Circulo {
         this.centroX = centroX;
         this.centroY = centroY;
     }
-    //2
+    //Construtor2
     public Circulo(double raio) {
         this(raio, 0, 0); //chama o 1
     }
