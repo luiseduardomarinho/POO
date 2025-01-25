@@ -71,7 +71,7 @@ public class Pais {
         return fronteiras;
     }
 
-    //beta tester da kitcopo
+    //beta tester do lemcl
     public static void main(String[] args) {
         //países!!
         Pais kitcopo = new Pais("KIT", "Kitcopo", 8515767.049);
