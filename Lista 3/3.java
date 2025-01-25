@@ -23,7 +23,7 @@ class SeguroDeVida implements Tributavel {
     public double calculaTributos() { return 42.0; }
 }
 
-// tetixs
+// test
 public class TestaTributavel {
     public static void main(String[] args) {
         ContaCorrente cc = new ContaCorrente(); cc.depositar(1000);
